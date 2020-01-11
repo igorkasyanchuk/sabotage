@@ -16,6 +16,8 @@ Code from this gem is changing logs and randomizing log output. It's impacting o
 It will change numbers in `[["LIMIT", 1]` to random `[["LIMIT", 2]` or `[["LIMIT", 5]`.
 Or `app/views/posts/index.html.erb:7` to `app/views/posts/index.html.erb:17` or to `app/views/posts/index.html.erb:5`
 
+[![Sample](https://raw.githubusercontent.com/igorkasyanchuk/sabotage/master/docs/sabotage.png)](https://raw.githubusercontent.com/igorkasyanchuk/sabotage/master/docs/sabotage.png)
+
 ## Usage
 
 There are 2 options how you can make a sabotage on your project.
