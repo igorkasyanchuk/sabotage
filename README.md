@@ -1,5 +1,7 @@
 # Sabotage
 
+[![RailsJazz](https://github.com/igorkasyanchuk/rails_time_travel/blob/main/docs/my_other.svg?raw=true)](https://www.railsjazz.com)
+
 Coding & debugging must be fun. Make life a bit harder for your colleagues :)
 
 Just try to put this code without code review into your app and start watching reactions of your colleagues.
